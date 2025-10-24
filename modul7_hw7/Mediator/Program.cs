@@ -8,14 +8,14 @@ class Program
     {
         IMediator chatRoom = new ChatRoom();
         
-        User user1 = new User("Никита1", chatRoom);
-        User user2 = new User("Никита2", chatRoom);
-        User user3 = new User("Никита3", chatRoom);
+        User user1 = new User("Виктория", chatRoom);
+        User user2 = new User("Александра", chatRoom);
+        User user3 = new User("Кристана", chatRoom);
 
         Console.WriteLine("ОБЩИЕ СООБЩЕНИЯ");
         user1.Send("привет всем!");
-        user2.Send("привет, Никита589");
-        user3.Send("ты перепутал он Никита1");
+        user2.Send("привет, Вика");
+        user3.Send("привет!! сегодня пойдем в кино?");
 
         Console.WriteLine("\nПРИВАТНЫЕ СООБЩЕНИЯ");
         user1.SendPrivate("как дела?", user2);
@@ -23,7 +23,7 @@ class Program
 
         Console.WriteLine("\nУВЕДОМЛЕНИЯ");
         user3.LeaveChat();
-        User user4 = new User("Никита4", chatRoom);
+        User user4 = new User("Карина", chatRoom);
 
         Console.WriteLine("\nОБРАБОТКА ОШИБОК");
         // Пытаемся отправить сообщение после выхода из чата
