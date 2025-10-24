@@ -1,0 +1,14 @@
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\bin\Debug\net8.0\modul7_hw7.exe
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\bin\Debug\net8.0\modul7_hw7.deps.json
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\bin\Debug\net8.0\modul7_hw7.runtimeconfig.json
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\bin\Debug\net8.0\modul7_hw7.dll
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\bin\Debug\net8.0\modul7_hw7.pdb
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.AssemblyInfoInputs.cache
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.AssemblyInfo.cs
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.csproj.CoreCompileInputs.cache
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.dll
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\refint\modul7_hw7.dll
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.pdb
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\modul7_hw7.genruntimeconfig.cache
+C:\Users\gulden\RiderProjects\spp_pr7\modul7_hw7\obj\Debug\net8.0\ref\modul7_hw7.dll

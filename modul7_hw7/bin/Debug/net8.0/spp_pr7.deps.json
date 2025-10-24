@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "spp_pr7/1.0.0": {
+        "runtime": {
+          "spp_pr7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "spp_pr7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
